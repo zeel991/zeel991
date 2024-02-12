@@ -1,4 +1,5 @@
 ![](https://github.com/zeel991/zeel991/blob/main/banner%20(2).png)
+![gitartwork](gitartwork.svg)
 <h1 align="center">Hi 👋, I'm Zeel Rohit Darji</h1>
 <h3 align="center">A passionate webdeveloper from India</h3>
 <img align = "right" alt = "coding" width = "400" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9524pael9wwb58di10jy4p3hk8slktxmru9ut8xyc2j&ep=v1_gifs_search&rid=200w.gif&ct=g"/>
