@@ -23,10 +23,5 @@
 - ⚡ Fun fact **I can trade on stock market**
 
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeel991&show_icons=true&locale=en&layout=compact" alt="zeel991" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeel991&" alt="zeel991" /></p>
-
 [![C4GTGithubDisplay](https://kcavhjwafgtoqkqbbqrd.supabase.co/storage/v1/object/public/c4gt-github-profile/754629038236106803-c4gt-contributions.jpeg)](https://github.com/Code4GovTech)
 
