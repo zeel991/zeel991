@@ -16,7 +16,7 @@
 <h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeel991" alt="zeel991" /></a> </p>
 </h1>
-- 🌱 I’m currently learning **Node.js and Express.js**
+- 🌱 I’m currently learning **Rust, Solidity and more about blockchain and Smart Contracts**
 
 - 📫 How to reach me **darjizeel587@gmail.com**
 
