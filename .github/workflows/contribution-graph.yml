@@ -1,0 +1,35 @@
+name: Generate Contribution Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+
+      - name: Generate Contribution Graph
+        uses: jasonlong/gh-contributions-color-graph@v1.0.0
+        with:
+          username: your-github-username
+          output: graph.png
+
+      - name: Commit Contribution Graph
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add graph.png
+          git commit -m "Update contribution graph"
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACTIONS_PAT }}
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.ACTIONS_PAT }}
+          branch: master
