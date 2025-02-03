@@ -16,7 +16,7 @@ const me = {
     databases: ["MongoDB", "MySql", "Postgres"],
   },
   currentProject: "Building an AI-powered coffee machine ☕ that writes code",
-  funFact: "There are 10 types of people in the world: those who understand binary and those who don't"
+  DadJoke: "There are 10 types of people in the world: those who understand binary and those who don't"
 };
 ```
 ###
